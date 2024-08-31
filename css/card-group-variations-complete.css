@@ -68,7 +68,7 @@
 
 .card__title {
   color: var(--color-blue);
-  margin-bottom: 0.5rem;
+  margin-block-end: 0.5rem;
   font-size: clamp(1.424rem, 10cqi, 3.157rem);
 }
 
@@ -89,7 +89,7 @@
   }
 
   .card__content {
-    padding-left: 0;
+    padding-inline-start: 0;
   }
 }
 
